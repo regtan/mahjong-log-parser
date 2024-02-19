@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e6b1f5db3c4197153331e0644810d55bb56b24bef7f44dd98b673fdbb224c70b"
+            "sha256": "4143f1f418315cb680b15b87c85fc89a0708f85e868ac4534c2309e052036bc1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -32,6 +32,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.0.0"
+        },
+        "mahjong": {
+            "hashes": [
+                "sha256:5df358127a73a26751f1f60635c65e02e6f363ce70339d3478c396301163277e",
+                "sha256:afbef2f5fea656b73eacb6396176d1e80cd06123c24dbea27df87100e8502097"
+            ],
+            "index": "pypi",
+            "version": "==1.2.1"
         },
         "mccabe": {
             "hashes": [
